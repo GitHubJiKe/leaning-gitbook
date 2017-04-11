@@ -40,7 +40,7 @@ module.exports = function (grunt) {
 
                 showDir : true,
                 autoIndex: true,
-                ext: "html",
+                ext: "md",
 				runInBackground: true,
 				logFn: function(req, res, error) { },
 				openBrowser : true
